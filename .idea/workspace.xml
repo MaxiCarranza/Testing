@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79c987fb-4da5-48ac-8b44-05dcb5117f7e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/tests/Ejercicio 4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/Loginsijai.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/Sijai - Administracion.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/funtions/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/functions/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/Ejercicio 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/Ejercicio 4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/Sijai - Administracion.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/Sijai - Administracion.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,10 +141,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="402" y="0" key="#Unittests_for_Ejercicio_3.test_01/0.0.1366.728@0.0.1366.728" timestamp="1593820657372" />
-    <state x="805" y="1" key="#Unittests_for_Ejercicio_4.Test_001" timestamp="1595462657080">
+    <state x="805" y="1" key="#Unittests_for_Ejercicio_4.Test_001" timestamp="1595733865834">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="805" y="1" key="#Unittests_for_Ejercicio_4.Test_001/0.0.1366.728@0.0.1366.728" timestamp="1595462657080" />
+    <state x="805" y="1" key="#Unittests_for_Ejercicio_4.Test_001/0.0.1366.728@0.0.1366.728" timestamp="1595733865834" />
     <state x="0" y="1" key="#Unittests_for_Ejercicio_5.test_01" timestamp="1593802664846">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -155,26 +153,26 @@
     </state>
     <state x="432" y="0" key="#Unittests_for_Ejercicio_5.test_01.test_001/0.0.1366.728@0.0.1366.728" timestamp="1593801015057" />
     <state x="0" y="1" key="#Unittests_for_Ejercicio_5.test_01/0.0.1366.728@0.0.1366.728" timestamp="1593802664846" />
-    <state x="47" y="0" key="#Unittests_for_Sijai_-_Administracion.test_01.test_001" timestamp="1595457529994">
+    <state x="47" y="0" key="#Unittests_for_Sijai_-_Administracion.test_01.test_001" timestamp="1595638147821">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="47" y="0" key="#Unittests_for_Sijai_-_Administracion.test_01.test_001/0.0.1366.728@0.0.1366.728" timestamp="1595457529994" />
-    <state width="1345" height="231" key="GridCell.Tab.0.bottom" timestamp="1595462658000">
+    <state x="47" y="0" key="#Unittests_for_Sijai_-_Administracion.test_01.test_001/0.0.1366.728@0.0.1366.728" timestamp="1595638147821" />
+    <state width="1328" height="147" key="GridCell.Tab.0.bottom" timestamp="1595733866854">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="231" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595462658000" />
-    <state width="1345" height="231" key="GridCell.Tab.0.center" timestamp="1595462658000">
+    <state width="1328" height="147" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595733866854" />
+    <state width="1328" height="147" key="GridCell.Tab.0.center" timestamp="1595733866854">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="231" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595462658000" />
-    <state width="1345" height="231" key="GridCell.Tab.0.left" timestamp="1595462658000">
+    <state width="1328" height="147" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595733866854" />
+    <state width="1328" height="147" key="GridCell.Tab.0.left" timestamp="1595733866854">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="231" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595462658000" />
-    <state width="1345" height="231" key="GridCell.Tab.0.right" timestamp="1595462658000">
+    <state width="1328" height="147" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595733866854" />
+    <state width="1328" height="147" key="GridCell.Tab.0.right" timestamp="1595733866854">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="231" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595462658000" />
+    <state width="1328" height="147" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595733866854" />
     <state x="0" y="13" key="SettingsEditor" timestamp="1593797134431">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
